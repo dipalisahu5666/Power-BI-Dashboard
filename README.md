@@ -1,1 +1,2 @@
 # Power-BI-Dashboard
+This repository showcases three interactive Power BI dashboards developed to solve real-world business problems using data-driven insights. The projects focus on HR Employee Attrition, Product Returns, and Supply Chain Route Analysis, covering employee retention, product return patterns, and operational efficiency. Using data visualization, DAX measures, KPIs, and interactive filters, these dashboards transform raw data into meaningful insights that support better business decision-making.
